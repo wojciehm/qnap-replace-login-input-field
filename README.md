@@ -1,4 +1,4 @@
-# qnap-replace-login-input-field
+# Allow username autofil on QNAP NAS
 This repository was created to allow password managers to autofil on QNAP login. Since some firmware version QNAP replaced their login page which doesn't allow to autofill username. I find this very frustrating therefore this repository. 
 
 ## Prerequisites
